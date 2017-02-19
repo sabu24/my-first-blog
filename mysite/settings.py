@@ -25,7 +25,7 @@ SECRET_KEY = 'ipcs&o!6%%f7mc3+mx40%sr$vk0zh@sd)8^l)azjf8d=%6lg62'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1", "pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "sabu24.pythonanywhere.com"]
 
 
 # Application definition
